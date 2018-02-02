@@ -21,8 +21,8 @@
     "annotateForClosureCompiler": true,
     "strictMetadataEmit": true,
     "skipTemplateCodegen": true,
-    "flatModuleOutFile": "ionic-gallery-modal.js",
-    "flatModuleId": "ionic-gallery-modal"
+    "flatModuleOutFile": "ionic-gallery-modal-angular-5.js",
+    "flatModuleId": "ionic-gallery-modal-angular-5"
   },
   "files": [
     "./index.ts"
