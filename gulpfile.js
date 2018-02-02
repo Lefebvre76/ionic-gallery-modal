@@ -143,7 +143,7 @@ gulp.task('rollup:umd', function () {
       }
 
     }))
-    .pipe(rename('ionic-gallery-modal.umd.js'))
+    .pipe(rename('ionic-gallery-modal-angular-5.umd.js'))
     .pipe(gulp.dest(distFolder));
 });
 
